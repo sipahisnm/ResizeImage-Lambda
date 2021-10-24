@@ -1,1 +1,0 @@
-# ResizeImage-Lambda
